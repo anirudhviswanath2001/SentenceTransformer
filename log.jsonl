@@ -1,0 +1,48 @@
+{"review": "This phone is amazing!", "result": "Books - Neutral"}
+{"review": "Terrible shirt quality.", "result": "Books - Neutral"}
+{"review": "Book was okay, not great.", "result": "Clothing - Negative"}
+{"review": "This phone is amazing!", "result": "Books - Negative"}
+{"review": "Terrible shirt quality.", "result": "Books - Positive"}
+{"review": "Book was okay, not great.", "result": "Tech - Positive"}
+{"review": "Love my new laptop!", "result": "Books - Negative"}
+{"review": "Awful socks, so itchy!", "result": "Books - Positive"}
+{"review": "Cool gadget but slow shipping.", "result": "Books - Neutral"}
+{"review": "This novel is boring.", "result": "Books - Positive"}
+{"review": "This phone is amazing!", "result": "Clothing - Neutral"}
+{"review": "Terrible shirt quality.", "result": "Tech - Neutral"}
+{"review": "Book was okay, not great.", "result": "Clothing - Negative"}
+{"review": "Love my new laptop!", "result": "Clothing - Neutral"}
+{"review": "Awful socks, so itchy!", "result": "Tech - Negative"}
+{"review": "Cool gadget but slow shipping.", "result": "Clothing - Negative"}
+{"review": "This novel is boring.", "result": "Clothing - Negative"}
+{"review": "This phone is amazing!", "result": "Books - Positive"}
+{"review": "Terrible shirt quality.", "result": "Tech - Neutral"}
+{"review": "Book was okay, not great.", "result": "Tech - Positive"}
+{"review": "Love my new laptop!", "result": "Tech - Positive"}
+{"review": "Awful socks, so itchy!", "result": "Tech - Positive"}
+{"review": "Cool gadget but slow shipping.", "result": "Tech - Positive"}
+{"review": "This novel is boring.", "result": "Books - Positive"}
+{"review": "This phone is amazing!", "result": "Clothing - Negative"}
+{"review": "Terrible shirt quality.", "result": "Clothing - Positive"}
+{"review": "Book was okay, not great.", "result": "Clothing - Negative"}
+{"review": "Love my new laptop!", "result": "Clothing - Neutral"}
+{"review": "Awful socks, so itchy!", "result": "Clothing - Neutral"}
+{"review": "Cool gadget but slow shipping.", "result": "Clothing - Negative"}
+{"review": "This novel is boring.", "result": "Clothing - Neutral"}
+{"review": "This phone is amazing!", "result": "Tech - Positive"}
+{"review": "Terrible shirt quality.", "result": "Clothing - Negative"}
+{"review": "Book was okay, not great.", "result": "Books - Neutral"}
+{"review": "Love my new laptop!", "result": "Tech - Positive"}
+{"review": "Awful socks, so itchy!", "result": "Clothing - Negative"}
+{"review": "Cool gadget but slow shipping.", "result": "Tech - Neutral"}
+{"review": "This novel is boring.", "result": "Books - Negative"}
+{"review": "This phone crashes all the time!", "result": "Tech - Negative"}
+{"review": "Love this comfy sweater!", "result": "Clothing - Positive"}
+{"review": "The book was pretty average.", "result": "Books - Neutral"}
+{"review": "Amazing tablet, super fast!", "result": "Tech - Positive"}
+{"review": "These pants ripped in a day.", "result": "Clothing - Negative"}
+{"review": "Cool headphones, decent sound.", "result": "Tech - Neutral"}
+{"review": "This novel is so dull.", "result": "Books - Negative"}
+{"review": "Best jacket ever, so warm!", "result": "Clothing - Positive"}
+{"review": "Laptop battery dies too quick.", "result": "Tech - Negative"}
+{"review": "Interesting story, worth a read.", "result": "Books - Positive"}
